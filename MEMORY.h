@@ -4,7 +4,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Class representing memory that can hold multiple values
+//Class representing memory that can hold multiple values
 class Memory {
 private:
     // Vector to store memory values as strings
